@@ -43,3 +43,12 @@ This project is divided into two separate repositories:
 | **Styling**     | Angular Material, CSS       |
 | **Deployment**  | Docker (optional)           |
 
+---
+
+## 🗄️ Database Schema
+<div align="center">
+  <img src="https://github.com/aniketk17/quizzyMind/blob/main/quizzyMind.png?raw=true" alt="Database Diagram" width="80%">
+  <br>
+  <em>Quizzy Mind Entity Relationship Diagram</em>
+</div>
+
